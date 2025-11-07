@@ -9,5 +9,5 @@
     </div>
 </nav>
 <div id="carregando" style="display: none; text-align:center;">
-    <img src="./recursos/common/images/carregando.gif" />
+    <img src="./recursos/common/images/loading.gif" />
 </div>
